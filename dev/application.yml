@@ -1,6 +1,6 @@
 env:
   name: dev  
-  password: dev1234567890
+  password: dev123456
 
 
 spring:
